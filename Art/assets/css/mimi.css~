@@ -1,0 +1,69 @@
+body{background-color:grey;}
+
+#wrapper{width:660px;
+         margin:0 auto;
+         background-color:black;
+         padding:40px;}
+
+#can{width:660px;
+     height:500px;
+     background-color:yellow;}
+
+#A{width:660px;
+   height:200px;
+   background-color:purple;}
+
+#B{width:660px;
+   height:150px;
+   background-color:blue;}
+
+#C{width:660px;
+   height:150px;
+   background-color:red;}
+
+#pin1{width:330px;
+     height:200px;
+     background-color:olive;
+     float:left;}
+
+#pin2{width:330px;
+     height:200px;
+     background-color:purple;
+     float:left;}
+
+#one{width:165px;
+     height:200px;
+     background-color:yellow;
+     float:left;}
+
+#two{width:165px;
+     height:200px;
+     background-color:olive;
+     float:left;}
+
+#three{width:165px;
+     height:200px;
+     background-color:olive;
+     float:left;}
+
+#four{width:165px;
+     height:200px;
+     background-color:olive;
+     float:left;}
+
+#five{width:330px;
+     height:150px;
+     background-color:brown;
+     float:left;}
+
+#six{width:330px;
+     height:150px;
+     background-color:blue;
+     float:left;}
+
+#seven{width:330px;
+     height:150px;
+     background-color:green;
+     float:left;}
+
+

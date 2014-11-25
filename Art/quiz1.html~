@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Me</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/mimi.css">
+</head>
+
+<body>
+   <div id="wrapper">
+     <div id="can">
+       <div id="A">
+           <div id="pin1">
+              <div id="one">1</div>
+              <div id="two">2</div>
+           </div>
+           <div id="pin2">
+              <div id="three">3</div>
+              <div id="four">4</div>
+           </div>
+       </div>
+       <div id="B">
+           <div id="five">5</div>
+           <div id="six">6</div>
+       </div>
+       <div id="C">
+           <div id="seven">7</div>
+           <div id="eight">8</div>
+       </div>
+     </div>
+   </div>
+</body>
+
+</html> 

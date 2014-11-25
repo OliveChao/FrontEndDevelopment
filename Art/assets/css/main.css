@@ -1,0 +1,103 @@
+body{background-image: url(../images/bbg.jpg);
+     background-position: center;
+     background-size: 1,076px × 673px ;}
+
+#wrapper{width:1000px;
+	     margin: 0 auto;
+         background-color: rgba(0,0,0,0.8);
+         padding: 10px;}
+
+header{width: 1000px;
+       height: 60px;
+       background-color: rgba(0,0,0,0.9);}         
+
+h1{color: 	#CC6600;
+   text-align: center;
+   font-family: Mercury Script;
+   font-style: italic;}
+
+#Part1{width: 1000px;
+       height: 230px;
+       background-color: rgba(0,0,0,0.9);
+       margin-top: 20px;
+       border-radius: 15px;}
+
+#Part2{width: 1000px;
+       height: 200px;
+       margin-top: 20px;
+       border-radius: 15px;}
+
+#Part3{width: 1000px;
+       height: 250px;
+       background-color: rgba(0,0,0,0.9);
+       margin-top: 20px;
+       border-radius: 15px;}
+
+#Image1{width: 255px;
+        height: 180px;
+        margin: 20px;
+        float: left;}   
+
+p{padding:20px 0px;
+  color:#CC6600; 
+  font-size: 13px;
+  font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;}   
+
+#can1{width: 310px;
+      height: 200px;
+      background-size:310px;
+      float: left;
+      margin-left: 20px;}
+
+#can2{width: 310px;
+      height: 200px;
+      background-color: rgba(204,102,0,0.8);
+      float: left;
+      margin-left: 20px;
+      border-radius: 15px;
+      webkit}
+
+#can3{width: 305px;
+      height: 195px;
+      background-color: #000;
+      float: left;
+      margin-left: 20px;
+      border:1px solid #CC6600;
+      border-radius: 15px;} 
+
+ul a.can3{text-decoration: none;
+          color: #CC6600;}      
+
+p.Part3{color:#CC6600;
+        text-align: center;}    
+
+h2{color:#CC6600;
+   text-align: center;
+   font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+   font-style: italic;} 
+
+#facebook{width: 50px;
+          height: 50px;
+          border-radius: 25px;
+          background-color:  #3B5998;}
+
+#twitter{width: 50px;
+         height: 50px;
+         border-radius: 25px;
+         background-color: #00aced;}  
+
+#google{width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        background-color: #dd4b39;}    
+
+a.social{display: inline-block;
+         margin-left: 210px;} 
+
+img.social{padding-top: 7px;
+           margin-left: 9px;}                            
+
+footer{text-align: center;
+       width: 1000px;
+       height: 50px;
+       background-color: #000;}               
